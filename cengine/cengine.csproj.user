@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\amere\Downloads\imresizer-IMG_0962.jpg</Source>
+    <SmallTileSource>C:\Users\amere\Downloads\imresizer-IMG_0962.jpg</SmallTileSource>
+    <MediumTileSource>C:\Users\amere\Downloads\imresizer-IMG_0962.jpg</MediumTileSource>
+    <WideTileSource>C:\Users\amere\Downloads\imresizer-IMG_0962.jpg</WideTileSource>
+    <LargeTileSource>C:\Users\amere\Downloads\imresizer-IMG_0962.jpg</LargeTileSource>
+    <AppIconSource>C:\Users\amere\Downloads\imresizer-IMG_0962.jpg</AppIconSource>
+    <SplashScreenSource>C:\Users\amere\Downloads\imresizer-IMG_0962.jpg</SplashScreenSource>
+    <PackageLogoSource>C:\Users\amere\Downloads\imresizer-IMG_0962.jpg</PackageLogoSource>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Update="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
